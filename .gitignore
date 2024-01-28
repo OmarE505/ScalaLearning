@@ -90,3 +90,4 @@ hs_err_pid*
 /target/scala-3.0.2/classes/playground/Playground.tasty
 /project/target/streams/compile/_global/_global/compileOutputs/previous
 /target/scala-3.0.2/classes/lectures/part1basics/ValuesVariablesTypes.tasty
+/target/scala-3.0.2/classes/lectures/part1basics/Functions.tasty
