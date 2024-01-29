@@ -1,6 +1,6 @@
 *.class
 *.log
-
+*.cache
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
@@ -91,3 +91,6 @@ hs_err_pid*
 /project/target/streams/compile/_global/_global/compileOutputs/previous
 /target/scala-3.0.2/classes/lectures/part1basics/ValuesVariablesTypes.tasty
 /target/scala-3.0.2/classes/lectures/part1basics/Functions.tasty
+/project/target/config-classes/$1060059112b2b10dd1ab.cache
+/project/target/config-classes/$6748e0c000fc858fcf7e.cache
+/project/target/config-classes/$93a66f381908fa07f00d.cache
