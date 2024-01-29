@@ -66,7 +66,7 @@ class Counter(val count: Int = 0) {
 
   def dec = {
     println("decrementing")
-    new Counter(count - 1)
+    new Counter(count - 1) // immutability
   }
 
   def inc(n: Int): Counter = {
