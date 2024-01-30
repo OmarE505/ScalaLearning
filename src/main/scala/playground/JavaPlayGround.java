@@ -1,7 +1,7 @@
 package playground;
 
 // class which makes the analogies between Scala objects and Java statics
-public class JavaPlayground {
+public class JavaPlayGround {
     public static void main(String args[]) {
         System.out.println(Person.N_EYES);
     }
