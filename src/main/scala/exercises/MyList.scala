@@ -49,7 +49,7 @@ case class Cons[+A](h: A, t: MyList[A]) extends MyList[A] {
   def add[B >: A](element: B): MyList[B] = new Cons(element, this)
   def printElements: String =
     if(t.isEmpty) "" + h
-    else h + " " + t.printElements
+    else s"$h ${t.printElements}"
 
   /*
       [1,2,3].filter(n % 2 == 0) =
